@@ -97,4 +97,3 @@ Uncomment the loop to populate the tree automatically on startup.
 
 ## 📄 License
 This project is provided for educational purposes as part of the **Data Structure** course.
-```
